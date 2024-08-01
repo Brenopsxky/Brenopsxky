@@ -1,4 +1,6 @@
-## &nbsp;<i>Olá👋💻 eu sou o Breno Lisboa! (Brenopsxky) </i>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1112E0&height=120&section=header"/>
+
+### &nbsp;<i>Olá👋💻 eu sou o Breno Lisboa! (Brenopsxky) </i>
 
 - 🏡 <i>Moro em São Paulo - SP.</i>
 - 🎓 <i>Sou um desenvolvedor Back-End em formação.</i>
