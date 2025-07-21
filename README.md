@@ -1,8 +1,8 @@
 ## &nbsp;<i>Olá👋💻 eu sou o Breno Lisboa! (Brenopsxky) </i>
 
-- 🏡 <i>Moro em São Paulo - SP.</i>
-- 🎓 <i>Sou um desenvolvedor Back-End em formação.</i>
-- 👨‍💻 <i>Atualmente Trabalhando como Analista de Projetos Administrativos, porém sempre buscando desenvolver minhas habilidades técnicas e projetando evoluções além das minhas Soft Skills!</i>
+- 🏡 <i>Buscando oportunidades de trabalho remotas em todo o Brasil!</i>
+- 🎓 <i>Sou um desenvolvedor Back-End em formação, **atualmente no 3º semestre de Análise e Desenvolvimento de Sistemas**, focado em construir soluções robustas e eficientes. Busco expandir minhas habilidades para o Front-End, visando compreender o ciclo de desenvolvimento completo e criar aplicações ponta a ponta.</i>
+- 👨‍💻 <i>Com **background em Gestão Financeira** e experiência como analista em projetos administrativos, tenho me dedicado intensamente ao estudo, à construção de projetos práticos e à busca de oportunidades onde possa aplicar minha visão estratégica e habilidades técnicas em diversas áreas da TI.</i>
 ----------------------------------------------------------------------------------
 ## 🚀&nbsp;<i>Skills</i>
 
